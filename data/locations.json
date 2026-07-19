@@ -573,19 +573,30 @@
   {
     "data": "{\"name\":\"NTLS Quảng Phú\",\"address\":\"\",\"lat\":\"\",\"lng\":\"\",\"thumbnail\":\"\",\"description\":\"\",\"page_id\":\"\",\"blogger_url\":\"\",\"vr360\":\"{\\\"enabled\\\":false,\\\"scenes\\\":[]}\",\"created_at\":\"2026-03-23T03:27:51.103Z\",\"updated_at\":\"2026-03-23T03:27:51.103Z\"}",
     "name": "Nghĩa trang liệt sĩ Quảng Phú",
-    "address": "",
+    "address": "thôn Quảng Phú, xã Phú Trạch, tỉnh Quảng Trị",
     "lat": "17.888026",
     "lng": "106.447630",
-    "thumbnail": "",
-    "description": "",
+    "thumbnail": "https://res.cloudinary.com/dkzog53dz/image/upload/f_auto,q_auto,c_limit/v1784169761/sohoadiachido_assets/oiq3tvc6gizj9jrahpdl.png",
+    "description": "Nghĩa trang liệt sĩ Quảng Phú, xã Phú Trạch, Quảng Trị, địa chỉ đỏ Phú Trạch, di tích lịch sử, tri ân liệt sĩ, đền ơn đáp nghĩa.",
     "page_id": "6701851455895483323",
     "blogger_url": "http://diachido.doanxaphutrach.vn/p/ntls-quang-phu.html",
     "vr360": {
-      "enabled": false,
-      "scenes": []
+      "enabled": true,
+      "scenes": [
+        {
+          "id": "sc_mrmwhjgmsd9",
+          "title": "",
+          "image": "https://res.cloudinary.com/dkzog53dz/image/upload/f_auto,q_auto,c_limit/v1784169648/sohoadiachido_assets/xwpzp8o8uibliokunr4p.jpg",
+          "audio": "",
+          "pitch": 11.3,
+          "yaw": -11.5,
+          "hfov": 120,
+          "hotspots": []
+        }
+      ]
     },
     "created_at": "2026-03-23T03:27:51.103Z",
-    "updated_at": "2026-06-30T15:48:53.686Z",
+    "updated_at": "2026-07-16T02:54:39.559Z",
     "audio": "",
     "updated_by": "taodethi.ai@gmail.com",
     "created_by": "",
@@ -1236,20 +1247,289 @@
   {
     "data": "{\"name\":\"thanh-mau-lieu-hanh\",\"address\":\"\",\"lat\":\"\",\"lng\":\"\",\"thumbnail\":\"\",\"description\":\"\",\"audio\":\"\",\"page_id\":\"\",\"blogger_url\":\"\",\"vr360\":\"{\\\"enabled\\\":false,\\\"scenes\\\":[]}\",\"created_at\":\"2026-06-23T03:03:34.088Z\",\"updated_at\":\"2026-06-23T03:03:34.088Z\",\"created_by\":\"taodethi.ai@gmail.com\",\"updated_by\":\"taodethi.ai@gmail.com\"}",
     "name": "Đền thờ Thánh Mẫu Liễu Hạnh",
-    "address": "thôn Vịnh Sơn, xã Phú Trạch, tỉnh Quảng Trị",
+    "address": "thôn Minh Sơn, xã Phú Trạch, tỉnh Quảng Trị",
     "lat": "17.953599",
     "lng": "106.468984",
-    "thumbnail": "",
-    "description": "",
+    "thumbnail": "https://res.cloudinary.com/dkzog53dz/image/upload/f_auto,q_auto,c_limit/v1784172417/sohoadiachido_assets/mggx3v8g13d4sb2i66dg.jpg",
+    "description": "Khám phá Đền thờ Thánh Mẫu Liễu Hạnh tọa lạc dưới chân đèo Ngang (xã Phú Trạch, Quảng Trị). Điểm đến du lịch tâm linh linh thiêng mang đậm giá trị văn hóa truyền thống.",
     "audio": "",
     "page_id": "6735502569309955252",
     "blogger_url": "https://diachido.doanxaphutrach.vn/p/thanh-mau-lieu-hanh.html",
     "vr360": {
-      "enabled": false,
-      "scenes": []
+      "enabled": true,
+      "scenes": [
+        {
+          "id": "sc_mrms1ocuk3v",
+          "title": "Cổng vào",
+          "image": "https://res.cloudinary.com/dkzog53dz/image/upload/f_auto,q_auto,c_limit/v1784163291/sohoadiachido_assets/onsirkwmbrs2a1vc3gbp.jpg",
+          "audio": "",
+          "pitch": 13.6,
+          "yaw": 1.7,
+          "hfov": 87,
+          "hotspots": [
+            {
+              "pitch": 0.3,
+              "yaw": -2.3,
+              "type": "scene",
+              "target": "sc_mrms7tlxsi0",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "id": "sc_mrms7tlxsi0",
+          "title": "01",
+          "image": "https://res.cloudinary.com/dkzog53dz/image/upload/f_auto,q_auto,c_limit/v1784163239/sohoadiachido_assets/vpay1ky4dufe6eqdowrq.jpg",
+          "audio": "",
+          "pitch": 20.8,
+          "yaw": 3.4,
+          "hfov": 110,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr226e82to",
+          "title": "02",
+          "image": "https://res.cloudinary.com/dkzog53dz/image/upload/f_auto,q_auto,c_limit/v1784421803/sohoadiachido_assets/iplyrflz7vu03matz3yb.jpg",
+          "audio": "",
+          "pitch": 8.3,
+          "yaw": -31.6,
+          "hfov": 92,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr239zdhur",
+          "title": "C04 quá ảnh",
+          "image": "",
+          "audio": "",
+          "pitch": 4.3,
+          "yaw": -7.2,
+          "hfov": 110,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr325uh5qn",
+          "title": "04",
+          "image": "https://res.cloudinary.com/dkzog53dz/image/upload/f_auto,q_auto,c_limit/v1784422480/sohoadiachido_assets/ep57loewlcceobuzb3bd.jpg",
+          "audio": "",
+          "pitch": 13.7,
+          "yaw": 5,
+          "hfov": 110,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr32so1zrr",
+          "title": "05",
+          "image": "https://res.cloudinary.com/dkzog53dz/image/upload/f_auto,q_auto,c_limit/v1784422508/sohoadiachido_assets/guaudikoz9q3ybzwakoq.jpg",
+          "audio": "",
+          "pitch": 16.5,
+          "yaw": -16.1,
+          "hfov": 120,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr33k6yolk",
+          "title": "06",
+          "image": "https://res.cloudinary.com/dkzog53dz/image/upload/f_auto,q_auto,c_limit/v1784422542/sohoadiachido_assets/ysahch6o2uiymqrv4ibc.jpg",
+          "audio": "",
+          "pitch": 11.3,
+          "yaw": -31.3,
+          "hfov": 110,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr347hvwgt",
+          "title": "07",
+          "image": "https://res.cloudinary.com/dkzog53dz/image/upload/f_auto,q_auto,c_limit/v1784422571/sohoadiachido_assets/fmotwpv9hy1apnzcmf09.jpg",
+          "audio": "",
+          "pitch": 15.4,
+          "yaw": 1.5,
+          "hfov": 120,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr34tus0fa",
+          "title": "08",
+          "image": "https://res.cloudinary.com/dkzog53dz/image/upload/f_auto,q_auto,c_limit/v1784422615/sohoadiachido_assets/hoieeyoe2dyiwv4y8d2q.jpg",
+          "audio": "",
+          "pitch": -9.6,
+          "yaw": 89.6,
+          "hfov": 120,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr35wj9w2s",
+          "title": "09",
+          "image": "https://res.cloudinary.com/dkzog53dz/image/upload/f_auto,q_auto,c_limit/v1784422656/sohoadiachido_assets/ecyujwwqa5mmgxprlwsv.jpg",
+          "audio": "",
+          "pitch": -4.7,
+          "yaw": -40.6,
+          "hfov": 120,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr36rmuh8f",
+          "title": "10",
+          "image": "https://res.cloudinary.com/dkzog53dz/image/upload/f_auto,q_auto,c_limit/v1784422693/sohoadiachido_assets/lc6x3nhi3iq202vuitid.jpg",
+          "audio": "",
+          "pitch": -5.7,
+          "yaw": 3.4,
+          "hfov": 120,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3aa62a75",
+          "title": "",
+          "image": "",
+          "audio": "",
+          "pitch": 0,
+          "yaw": 0,
+          "hfov": 110,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3adwanev",
+          "title": "",
+          "image": "",
+          "audio": "",
+          "pitch": 0,
+          "yaw": 0,
+          "hfov": 110,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3ae1mu8x",
+          "title": "",
+          "image": "",
+          "audio": "",
+          "pitch": 0,
+          "yaw": 0,
+          "hfov": 110,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3ae5uosw",
+          "title": "",
+          "image": "",
+          "audio": "",
+          "pitch": 0,
+          "yaw": 0,
+          "hfov": 110,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3aeaqm2i",
+          "title": "",
+          "image": "",
+          "audio": "",
+          "pitch": 0,
+          "yaw": 0,
+          "hfov": 110,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3aeeq91n",
+          "title": "",
+          "image": "",
+          "audio": "",
+          "pitch": 0,
+          "yaw": 0,
+          "hfov": 110,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3aeiqhq5",
+          "title": "",
+          "image": "",
+          "audio": "",
+          "pitch": 0,
+          "yaw": 0,
+          "hfov": 110,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3aenun6u",
+          "title": "19",
+          "image": "https://cdn.doanxaphutrach.vn/images/thanh-mau/C19.jpg",
+          "audio": "",
+          "pitch": 0,
+          "yaw": 0,
+          "hfov": 110,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3aesaxdc",
+          "title": "20",
+          "image": "https://cdn.doanxaphutrach.vn/images/thanh-mau/C20.jpg",
+          "audio": "",
+          "pitch": 16.1,
+          "yaw": 55.4,
+          "hfov": 110,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3aewynqp",
+          "title": "21",
+          "image": "https://cdn.doanxaphutrach.vn/images/thanh-mau/C21.jpg",
+          "audio": "",
+          "pitch": -8.8,
+          "yaw": 115.8,
+          "hfov": 95,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3af1un0f",
+          "title": "22",
+          "image": "https://cdn.doanxaphutrach.vn/images/thanh-mau/C22.jpg",
+          "audio": "",
+          "pitch": 15.1,
+          "yaw": 13.3,
+          "hfov": 110,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3af6q4hb",
+          "title": "23",
+          "image": "https://cdn.doanxaphutrach.vn/images/thanh-mau/C23.jpg",
+          "audio": "",
+          "pitch": 1.9,
+          "yaw": -0.5,
+          "hfov": 112,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3afjmtlp",
+          "title": "24",
+          "image": "https://cdn.doanxaphutrach.vn/images/thanh-mau/C24.jpg",
+          "audio": "",
+          "pitch": 7.1,
+          "yaw": 8,
+          "hfov": 120,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3afoawkh",
+          "title": "25",
+          "image": "https://cdn.doanxaphutrach.vn/images/thanh-mau/C25.jpg",
+          "audio": "",
+          "pitch": -3.1,
+          "yaw": -19.2,
+          "hfov": 95,
+          "hotspots": []
+        },
+        {
+          "id": "sc_mrr3aftum4t",
+          "title": "26",
+          "image": "https://cdn.doanxaphutrach.vn/images/thanh-mau/C26.jpg",
+          "audio": "",
+          "pitch": 9.7,
+          "yaw": 112.5,
+          "hfov": 83,
+          "hotspots": []
+        }
+      ]
     },
     "created_at": "2026-06-23T03:03:34.088Z",
-    "updated_at": "2026-06-23T03:26:21.566Z",
+    "updated_at": "2026-07-19T03:50:48.636Z",
     "created_by": "taodethi.ai@gmail.com",
     "updated_by": "taodethi.ai@gmail.com",
     "id": "8c2e1e4b-f517-4c74-8972-3a0a0078de1b",
